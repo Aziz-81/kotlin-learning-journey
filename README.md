@@ -42,7 +42,6 @@
 
 **Azizul Islam** — [GitHub](https://github.com/Aziz-81)
 
----
 
 ⭐ *"প্রতিদিন একটু একটু করে এগোলেই একদিন পৌঁছে যাব।"*
 | Day | Topic | Status |
