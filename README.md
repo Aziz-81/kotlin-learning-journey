@@ -54,3 +54,14 @@
 | 06 | Lists, map, filter | ✅ |
 | 07 | OOP Basics (Class, Object, Constructor) | ✅ |
 | 08 | Inheritance | ⏳ |
+| Day | Topic | Status |
+|-----|-------|--------|
+| 01 | Android Studio Setup + Hello World | ✅ |
+| 02 | Variable, Data Types, String Template | ✅ |
+| 03 | if, else, when | ✅ |
+| 04 | Loops (for, while, downTo) | ✅ |
+| 05 | Functions | ✅ |
+| 06 | Lists, map, filter | ✅ |
+| 07 | OOP Basics (Class, Object, Constructor) | ✅ |
+| 08 | Inheritance | ✅ |
+| 09 | Polymorphism | ⏳ |
