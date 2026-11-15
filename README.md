@@ -53,7 +53,7 @@
 | 05 | Functions | ✅ |
 | 06 | Lists, map, filter | ✅ |
 | 07 | OOP Basics (Class, Object, Constructor) | ✅ |
-| 08 | Inheritance | ⏳ |
+| 08 | Inheritance | ✅ |
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01 | Android Studio Setup + Hello World | ✅ |
