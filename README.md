@@ -41,6 +41,10 @@
 **Azizul Islam** — [GitHub](https://github.com/Aziz-81)
 
 ⭐ *"প্রতিদিন একটু একটু করে এগোলেই একদিন পৌঁছে যাব।"*
+## 📅 আমার যাত্রা
+
+| Day | Topic | Status |
+|-----|-------|--------|
 | 01 | Android Studio Setup + Hello World | ✅ |
 | 02 | Variable, Data Types, String Template | ✅ |
 | 03 | if, else, when | ✅ |
@@ -50,3 +54,6 @@
 | 07 | OOP Basics (Class, Object, Constructor) | ✅ |
 | 08 | Inheritance | ✅ |
 | 09 | Polymorphism | ✅ |
+| ... | ... | ... |
+
+## 🎯 লক্ষ্য
