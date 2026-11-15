@@ -19,7 +19,7 @@
 | 02 | Variable, Data Types, String Template | ✅ |
 | 03 | if, else, when | ✅ |
 | 04 | Loops (for, while, downTo) | ✅ |
-| 05 | Functions | 🔄 |
+| 05 | Functions | ✅ |
 | ... | ... | ... |
 
 ## 🎯 লক্ষ্য
@@ -64,4 +64,4 @@
 | 06 | Lists, map, filter | ✅ |
 | 07 | OOP Basics (Class, Object, Constructor) | ✅ |
 | 08 | Inheritance | ✅ |
-| 09 | Polymorphism | ⏳ |
+| 09 | Polymorphism | ✅ |
