@@ -10,20 +10,6 @@
 - Object-Oriented Programming (OOP)
 - Jetpack Compose
 - Android অ্যাপ প্রজেক্ট
-
-## 📅 আমার যাত্রা
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| 01 | Android Studio Setup + Hello World | ✅ |
-| 02 | Variable, Data Types, String Template | ✅ |
-| 03 | if, else, when | ✅ |
-| 04 | Loops (for, while, downTo) | ✅ |
-| 05 | Functions | ✅ |
-| ... | ... | ... |
-
-## 🎯 লক্ষ্য
-
 **WordMaster BD** — একটি বহুভাষিক Word Processing অ্যাপ তৈরি করা।
 
 - ৬টি ভাষা সাপোর্ট (বাংলা, ইংরেজি, আরবি, উর্দু, হিন্দি, ফারসি)
